@@ -563,17 +563,10 @@ Build an interactive **Power BI dashboard** to allow business users to monitor:
 ```text
 Bank_Attrition_EDA/
 │
-├── 📁 data/
-│   └── bank_attrition.csv
-│
-├── 📁 notebooks/
-│   └── Bank_Attrition_EDA.ipynb
-│
-├── 📁 images/
-│   └── visualizations/
-│
-├── 📄 README.md
-└── 📄 requirements.txt
+├── Bank_Attrition_EDA.ipynb
+├── Bank_attrition_Data.xlsx
+├── README.md
+└── bankattrition_eda.py
 ```
 
 ---
